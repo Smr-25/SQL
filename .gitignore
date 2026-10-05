@@ -1,0 +1,23 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE state
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+*.iml
+
+# Generated database files and backups
+*.mdf
+*.ndf
+*.ldf
+*.bak
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
